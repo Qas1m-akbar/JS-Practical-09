@@ -1,4 +1,4 @@
-// Task 01: 
+// Task 01:  ADDING TWO NUMBER USING FUNCTION
 
 // function addNumber(num1,num2){
 //       return num1 + num2;
@@ -16,7 +16,7 @@
 
 
 
-// Task-02 :
+// Task-02 : CCONVERT LETTER TO UPPERCASE
 
 // function toUpper(str){
     //     return str.toUpperCase();
@@ -31,7 +31,7 @@
     
     
     
-    // Task-03 :
+    // Task-03 : FINDING AVERAGE OF NUMBERS
 
 
     // function averageArray(arr){
@@ -56,7 +56,7 @@
 
 
 
-    // Task-04 : Removing Vowels using regular Expression .include()  
+    // Task-04 : Removing Vowels using LOOPS  
 
 //     function removeVowels(str){
 //         // create empty using storing a string
@@ -77,7 +77,7 @@
 //     console.log(removeVowels("khattak"));
 
 
-/***********************  USING REGULAR EXPRESSION by  .replace() method****/
+/*********************** REMOVEVOWELS USING REGULAR EXPRESSION by  .replace() method****/
 
 //  function removeVowels(str){
 //     return str.replace(/[aeiouAEIOU]/g, '' );
@@ -91,7 +91,7 @@
 
 
 
-// Task 05 : Solving for Loop
+// Task 05 : FACTORIAL using for Loop 
 
 
 //  function factorial(n){
@@ -110,7 +110,7 @@
 // console.log(factorial(2));
    
 
-/**************** SOLVING USING RECURSION  ******/
+/****************FACTORIAL SOLVING USING RECURSION  ******/
 
 // function factorial(n){
 //     if(n < 0) return  "Factorial is not defined for negative numbers"
@@ -128,7 +128,7 @@
 
 
 
-// Task 06 : SOLVING USING LOOP 
+// Task 06 : REVERESING letter USING LOOP 
 
 // function reverseString(str){
 //     let reverse = '';
@@ -146,7 +146,7 @@
 
 
 
-// Task 06 : SOLVING USING RECURSION 
+// Task 06 : REVERESING letter  USING RECURSION 
 
 // function reverseString(str){
 //     if(str === ''){
